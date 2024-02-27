@@ -8,18 +8,15 @@
  
 ## Tipos de dados
 
-🔢 Numbers: 
-📝 String: 
+🔢 Numbers:
+📝 String:
 ✅/❌ Boolean:
 🚫 Undefined: 
 0️⃣ Null: 
 🗃️ Array: 
 🛠️ Object: 
- 
 
 ## Operadores
-
- 
 
 ➕➖✖️➗ Aritmética:
 🆚 Comparação:
@@ -31,7 +28,7 @@
 ♾️ while, do...while: 
 🔄 for, for...of, for...in:
 
-Dados (Functional Programming)
+## Dados (Functional Programming)
 
 🗂️ Array: 
 🗃️ Object: 
