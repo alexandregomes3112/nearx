@@ -9,36 +9,54 @@
 ## Tipos de dados
 
 🔢 Numbers:
+
 📝 String:
+
 ✅/❌ Boolean:
+
 🚫 Undefined: 
+
 0️⃣ Null: 
+
 🗃️ Array: 
+
 🛠️ Object: 
+
 
 ## Operadores
 
 ➕➖✖️➗ Aritmética:
+
 🆚 Comparação:
+
 🧠 Lógicos: 
+
 
 ## Controle de Fluxo
 
 🚦 if, else, switch:
+
 ♾️ while, do...while: 
+
 🔄 for, for...of, for...in:
+
 
 ## Dados (Functional Programming)
 
 🗂️ Array: 
+
 🗃️ Object: 
  
 ## Funções
 
 📣 Function Declarations: 
+
 💬 Function Expressions: 
+
 🗂️➡️🛠️ Array functions: 
-⏳ Async Functions: 
+
+⏳ Async Functions:
+
 🏃‍♂️💨 IIFE Functions: 
  
 ## Classes e Módulos
