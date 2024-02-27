@@ -29,7 +29,7 @@ Seguindo o desenho em anexo, imagine que Alice e Bob precisam trocar uma mensage
 Alice envia sua chave pública para o BOB e ele criptografa a informação com a chave publica dele e da Alice.
 Alice recebe a mensagem, e consegue recuperar seu conteúdo, abrindo com sua chave **PRIVADA**.
 
-![Exemplo de Criptografia Simétrica](https://www.dropbox.com/scl/fi/5ioh9kfhmma4sxfayb8v3/chaves.jpg?rlkey=z320o5a089ace0yjoipt35yok&raw=)
+![Exemplo de Criptografia Simétrica](chaves.jpg)
 
 ### UTXO
 
