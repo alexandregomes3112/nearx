@@ -314,21 +314,21 @@ console.log(adicionarPuro(5, 10)); // Output: 15
 ```
 
 🗃️ Object: 
+
+```
+// Função para converter a primeira letra de uma string em maiúscula
+function primeiraLetraMaiuscula(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+// Função para formatar uma pessoa em uma string
+function formatarPessoa(pessoa) {
+  return `${primeiraLetraMaiuscula(pessoa.nome)}, ${pessoa.idade} anos`;
+}
+
+const pessoa = { nome: "joão", idade: 30 };
+console.log(formatarPessoa(pessoa)); // João, 30 anos
+
+```
  
-## Funções
 
-📣 Function Declarations: 
-
-💬 Function Expressions: 
-
-🗂️➡️🛠️ Array functions: 
-
-⏳ Async Functions:
-
-🏃‍♂️💨 IIFE Functions: 
- 
-## Classes e Módulos
-
-🏗️ constructor, attribute, method, this: 
-
-📤📥 import, export ES6 e CommonJS: 
