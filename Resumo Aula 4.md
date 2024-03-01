@@ -1,6 +1,6 @@
 # RESUMO AULA 4 - BOOTCAMP NEARX - FEV/2024
 
-## Wallet, Signature, Transaction, Smartcontract, Slient-node
+## Wallet, Signature, Transaction, Smartcontract, Client-node
 
 | Biblioteca | Link |
 | :--- | :-- | 
