@@ -13,5 +13,6 @@
 ## Deploy Local
 
 ## Deploy Sepolia
+[Meu primeiro Token ERC20](https://sepolia.etherscan.io/tx/0xc3bd644d1f54c6013eac99f5896d9935c07c94842382adec042afd9c60000854)
 
 ## Deploy Mainnet (Optimism)
