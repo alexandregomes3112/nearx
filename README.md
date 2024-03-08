@@ -19,3 +19,5 @@
 [Resumo Aula 9](https://github.com/alexandregomes3112/nearx/blob/main/Resumo%20Aula%209.md)
 
 [Resumo Aula 10](https://github.com/alexandregomes3112/nearx/blob/main/Resumo%20Aula%2010.md)
+
+[Docs Optimism](https://docs.optimism.io/)
