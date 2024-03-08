@@ -7,7 +7,7 @@
 - Layer 2: Superset: Optimism, Polygon, Arbitrium
 - Layer 3:
 
-  []()
+  ![Exemplos de Layers](layers.png)
 
 ## L2 Rollups - Optimism
 
