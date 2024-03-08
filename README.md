@@ -17,3 +17,5 @@
 [Resumo Aula 8](https://github.com/alexandregomes3112/nearx/blob/main/Resumo%20Aula%208.md)
 
 [Resumo Aula 9](https://github.com/alexandregomes3112/nearx/blob/main/Resumo%20Aula%209.md)
+
+[Resumo Aula 10](https://github.com/alexandregomes3112/nearx/blob/main/Resumo%20Aula%2010.md)
