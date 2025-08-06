@@ -1,0 +1,36 @@
+# Stellar Wallet with Dinamo HSM Configuration
+
+stellar:
+  # Network configuration
+  network: "TESTNET"  # Options: TESTNET, MAINNET
+  horizon_url: "https://horizon-testnet.stellar.org"
+  # horizon_url: "https://horizon.stellar.org"  # For mainnet
+  
+  # Transaction settings
+  base_fee: 100  # Base fee in stroops
+  timeout: 30    # Transaction timeout in seconds
+
+hsm:
+  # Dinamo HSM PKCS#11 configuration
+  pkcs11_lib_path: "/usr/lib/libdinamo.so"  # Path to Dinamo PKCS#11 library
+  
+  # HSM connection settings
+  slot_id: 0                    # HSM slot ID
+  token_label: "dinamo_token"   # Token label
+  user_pin: ""                  # Set via environment variable HSM_USER_PIN
+  
+  # Key management
+  key_label: "stellar_wallet_key"  # Label for the Stellar key pair
+  key_type: "EC"                   # Key type: EC (recommended) or RSA
+  ec_curve: "secp256k1"           # Curve for EC keys (secp256k1 for Stellar)
+
+logging:
+  level: "INFO"    # Options: DEBUG, INFO, WARNING, ERROR
+  file: "stellar_wallet.log"
+  format: "{time:YYYY-MM-DD HH:mm:ss} | {level} | {message}"
+
+security:
+  # Additional security settings
+  require_user_confirmation: true
+  audit_logging: true
+  key_backup_required: false
