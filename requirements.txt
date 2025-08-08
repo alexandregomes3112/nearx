@@ -1,0 +1,30 @@
+# Stellar SDK for blockchain operations
+stellar-sdk>=12.0.0
+
+# PKCS#11 support for HSM integration
+PyKCS11>=1.5.12
+python-pkcs11>=0.7.0
+
+# HSM integration (py-hsm for general PKCS#11 support)
+py-hsm>=2.5.0
+
+# Cryptographic libraries
+cryptography>=41.0.0
+pycryptodome>=3.19.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
+
+# Logging and utilities
+loguru>=0.7.0
+click>=8.1.0
+
+# For async operations (optional)
+aiohttp>=3.8.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
